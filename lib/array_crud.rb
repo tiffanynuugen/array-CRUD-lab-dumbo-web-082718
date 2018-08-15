@@ -6,7 +6,7 @@ def create_an_array
   fruits = ["avocado", "papaya", "guava", "strawberry"]
 end
 
-def add_element_to_end_of_array(fruits, orange)
+def add_element_to_end_of_array(array, orange)
   fruits << orange
 end
 
