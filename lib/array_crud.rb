@@ -31,6 +31,6 @@ def retrieve_first_element_from_array(fruits)
 end
 
 def retrieve_last_element_from_array(fruits)
-  x = fruits.count
-  fruits[x - 1]
+  item = fruits.count
+  fruits[item - 1]
 end
