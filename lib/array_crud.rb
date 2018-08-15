@@ -26,10 +26,10 @@ def retrieve_element_from_index(fruits, 2)
   fruits[2]
 end
 
-def retrieve_first_element_from_array(array)
-
+def retrieve_first_element_from_array(fruits)
+  fruits[0]
 end
 
-def retrieve_last_element_from_array(array)
-
+def retrieve_last_element_from_array(fruits)
+  fruits[3]
 end
