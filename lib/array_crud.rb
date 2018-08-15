@@ -22,8 +22,8 @@ def remove_element_from_start_of_array(fruits)
   fruits.shift
 end
 
-def retrieve_element_from_index()
-  
+def retrieve_element_from_index(fruits, papaya)
+  fruits[1]
 end
 
 def retrieve_first_element_from_array(fruits)
