@@ -22,7 +22,7 @@ def remove_element_from_start_of_array(fruits)
   fruits.shift
 end
 
-def retrieve_element_from_index(fruits, papaya)
+def retrieve_element_from_index(fruits, 1)
   fruits[1]
 end
 
